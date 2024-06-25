@@ -16,4 +16,3 @@ def capitalize_words(s):
     :return: string with each word capitalized
     """
     return s.title()
-

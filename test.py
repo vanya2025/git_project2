@@ -11,7 +11,6 @@ def to_upper_case(s):
 def capitalize_words(s):
     """
     Capitalize the first letter of each word in the string.
-
     :param s: input string
     :return: string with each word capitalized
     """
